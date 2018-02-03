@@ -28,7 +28,7 @@ body {
 .navigation a {
     display:table-cell;
     vertical-align:middle;  
-    padding: 15px 12.6px;
+    padding: 15px 24px;
     color: #5E5E60;
     text-decoration: none;
 }
